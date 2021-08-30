@@ -10,6 +10,8 @@
 
     npm install
 
-    node index.js
+    node dou_ban_top250.js  //豆瓣top250
+    
+    node quan_zhi_gao_shou.js  // 笔趣阁 --- 全职高手
 
 本项目仅供学习使用。
