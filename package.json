@@ -19,8 +19,6 @@
   "homepage": "https://github.com/1nian/node-reptile#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
-    "gbk": "^0.1.0",
-    "iconv-lite": "^0.6.3",
     "superagent": "^6.1.0",
     "superagent-charset": "^1.2.0"
   }
